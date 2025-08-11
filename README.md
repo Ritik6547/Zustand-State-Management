@@ -28,7 +28,7 @@ It’s simpler than Redux and more predictable than using `useState` or `useRedu
 ### 1️⃣ Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/zustand-practice.git
+git clone https://github.com/Ritik6547/Zustand-State-Management.git
 ```
 
 ### 2️⃣ Install Dependencies
